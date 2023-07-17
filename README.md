@@ -1,3 +1,12 @@
-# Eshop-React-Project
-upGrad Project Name - Eshop
-An e-commerce application built with React that uses a variety of React component-based architecture and features, such as state management, routing, and server-side rendering 
+# How to start
+
+To run the project:
+
+### `npm start`
+
+
+Please note that the back end should run on port **8080** by default.
+API connection will be made to *http://localhost:8080/api*
+
+# Demo video
+https://drive.google.com/file/d/1V3WTwzLdBCC3WRq2aKyNbCfBncTqIuia/view?usp=drive_link
